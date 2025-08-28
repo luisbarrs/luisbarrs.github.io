@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Luis Barriga",
+    "label": "Research economist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lbarrigas@unsa.edu.pe",
+    "phone": "(+51) 965 299 128",
+    "url": "https://luisbarrs.github.io",
+    "summary": "I am an Economist from the National University of San Agustin of Arequipa in Peru. My main research interest lies in econometrics applied to social sciences, labor economics, poverty, education, and inequality",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Liberty Avenue",
+      "postalCode": "ARE 04000",
+      "city": "Arequipa",
+      "countryCode": "Peru",
+      "region": "Arequipa"
     },
     "profiles": [
       {
